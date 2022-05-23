@@ -46,7 +46,7 @@ const Arrow = (props) => {
         className={`${props?.direction}Arrow`}
         onClick={() => updateSource(props?.direction)}
       >
-        <img src="https://icones.pro/wp-content/uploads/2021/06/icone-fleche-gauche-jaune.png" />
+        <img src="https://stackblitz.com/files/react-kwl3cn/github/sathamfxec/Arrow-Events/master/public/arrow-icon.png" />
       </div>
     </React.Fragment>
   );
